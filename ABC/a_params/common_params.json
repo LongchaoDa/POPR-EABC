@@ -1,0 +1,14 @@
+{
+    "total_Episodes": 20,
+    "bootstrap_M": 5,
+    "burnin": 10,
+    "thin": 10,
+    "total_N": 500,
+    "epsilon": 1e-3,
+    "Running_times": 3,
+    "expert_len": 100,
+    "miu": 0.4,
+    "sigma": 0.4,
+    "fix_alpha": 4.0,
+    "priori_type": "beta"
+}
